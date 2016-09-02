@@ -1,10 +1,8 @@
-[中文版本](./README_zh.md)
+## 故障总结
 
-## troubleshooting
+收集遇到的常见故障，任何人都可以分享转载，也欢迎补充。
 
-This is a collection of my troubleshooting like Openstack, Docker,Linux,etc. **Anyone can share without any permission**, and welcome to add related issues.
-
-## Catalog
+## 目录
 
 ### Docker
 
@@ -23,4 +21,3 @@ This is a collection of my troubleshooting like Openstack, Docker,Linux,etc. **A
 3. [Sahara fail to create CDH cluster - hang on 'Await starting Cloudera Manager'](./openstack/sahara/hang_on_check_cloudera_manager_start.md)
 
 ### Program
-
