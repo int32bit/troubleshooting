@@ -17,6 +17,7 @@ This is a collection of my trouble shooting, **anyone can share without any perm
 ### Openstack
 
 1. [Sahara can't SSH into instances - can't read SSH protocol banner](./openstack/sahara/can_not_ssh_into_instances.md)
+2. [Sahara fail to create CDH cluster - fail to generate hadoop configuration](./openstack/sahara/fail_to_generate_hadoop_configuration.md)
 
 ### Program
 
