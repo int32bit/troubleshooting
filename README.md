@@ -21,6 +21,7 @@ This is a collection of my troubleshooting like Openstack, Docker,Linux,etc. **A
 1. [Sahara can't SSH into instances - can't read SSH protocol banner](./openstack/sahara/can_not_ssh_into_instances.md)
 2. [Sahara fail to create CDH cluster - fail to generate hadoop configuration](./openstack/sahara/fail_to_generate_hadoop_configuration.md)
 3. [Sahara fail to create CDH cluster - hang on 'Await starting Cloudera Manager'](./openstack/sahara/hang_on_check_cloudera_manager_start.md)
+4. [Nova fail to spawn vm - failed to initialize KVM: Permission denied](./openstack/nova/failed_to_initialize_KVM.md)
 
 ### Program
 
