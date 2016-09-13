@@ -14,6 +14,8 @@ This is a collection of my troubleshooting like Openstack, Docker,Linux,etc. **A
 
 ### Linux
 
+1. [Apache httpd can't parse php on centos7](./linux/centos/apache-httpd-cannot-parse-php-on-centos-7.md)
+
 ### Spark
 
 ### Openstack
