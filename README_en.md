@@ -1,8 +1,10 @@
-## 故障总结
+[中文版本](./README_zh.md)
 
-收集遇到的常见故障，任何人都可以分享转载，也欢迎补充。
+## troubleshooting
 
-## 目录
+This is a collection of my troubleshooting about Openstack, Docker,Linux,etc. **Anyone can share it**.
+
+## Catalog
 
 ### Docker
 
@@ -11,6 +13,8 @@
 ### Hadoop
 
 ### Linux
+
+1. [Apache httpd can't parse php on centos7](./linux/centos/apache-httpd-cannot-parse-php-on-centos-7.md)
 
 ### Spark
 
@@ -22,3 +26,4 @@
 4. [Nova fail to spawn vm - failed to initialize KVM: Permission denied](./openstack/nova/failed_to_initialize_KVM.md)
 
 ### Program
+
