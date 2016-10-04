@@ -16,6 +16,7 @@
 
 1. [Apache httpd can't parse php on centos7](./linux/centos/apache-httpd-cannot-parse-php-on-centos-7.md)
 2. [在终端拷贝粘贴时出现异常字符乱码](linux/终端粘贴乱码.md)
+3. [php页面连接数据库失败 - Can't connect to MySQL server on '192.168.xxxx' (13)](linux/php连接mysql失败.md)
 
 ### Openstack
 
